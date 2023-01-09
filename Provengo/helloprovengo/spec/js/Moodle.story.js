@@ -5,7 +5,7 @@ const NEW_DESCRIPTION = 'New Quiz Description'
 story('change quiz description', function () {
   let s = new SeleniumSession().start('http://127.0.0.1/login')
   s.login({username: 'teacher', password: 'teacher'})
-  s.chagneQuizeName({ id: 1234, newDescription: NEW_DESCRIPTION })
+  s.changeQuizDescription({ id: 1234, newDescription: NEW_DESCRIPTION })
 })
 
 story('attempt quiz', function () {
