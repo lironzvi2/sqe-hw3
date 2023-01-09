@@ -4,7 +4,7 @@ This directory contains the Provengo project for testing [TODO software name].
 ## Running the tests
 To run a single random test, run:
 ```shell 
-.\provengo run helloprovengo
+provengo run helloprovengo
 ```
 
 See the [Provengo README](helloprovengo/README.md) for more useful commands.

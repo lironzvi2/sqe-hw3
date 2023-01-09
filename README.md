@@ -25,4 +25,4 @@ We used two different testing methods:
 Each of the testing methods is elaborated in its own directory. 
 
 ## Results
-You should add a report of your testing to the FinalReport folder. See [Report README](Report/README.md) for more details on the report format.  
+You should add a report of your testing to the Report folder. See [Report README](Report/README.md) for more details on the report format.  
